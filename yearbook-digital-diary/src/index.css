@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito:wght@400;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-hand: "Caveat", cursive;
+  --font-sans: "Nunito", sans-serif;
+}
+
+body {
+  background-color: #fefce8;
+  color: #713f12;
+  font-family: var(--font-sans);
+}
+
+.yb-grid-bg {
+  background-image: radial-gradient(#eab308 1px, transparent 1px);
+  background-size: 20px 20px;
+  background-position: 0 0;
+}

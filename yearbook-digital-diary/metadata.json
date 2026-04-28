@@ -1,0 +1,6 @@
+{
+  "name": "YearBook Digital Diary",
+  "description": "Interactive web UI mimicking a yearBook electronic diary week view, allowing users to drag and select time blocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
